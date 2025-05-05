@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+prints/
+!exemplo_PDF/
+*.pdf
+!exemplo_PDF/prints_de_execucao.pdf

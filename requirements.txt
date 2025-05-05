@@ -1,0 +1,4 @@
+selenium==4.32.0
+pyautogui==0.9.54
+pillow==11.2.1
+webdriver-manager==4.0.2
