@@ -96,5 +96,5 @@ Feel free to contribute to this project! Just fork it, make your changes, and op
 
 ## Licença / License
 
-Este projeto está licenciado sob a Licença MIT
+Este projeto está licenciado sob a Licença MIT / 
 This project is licensed under the MIT License
